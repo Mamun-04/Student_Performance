@@ -7,7 +7,7 @@ This project aims to predict whether a student is likely to **fail** based on fe
 ## Dataset
 
 - Source: UCI Machine Learning Repository  
-- File used: `student-mat.csv`  
+- File used: `student-mat.csv`  `student-por.csv`
 - Total records: 649 students
 
 ---
